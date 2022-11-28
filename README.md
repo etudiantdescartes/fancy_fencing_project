@@ -1,2 +1,2 @@
 # fancy_fencing_project
-test
+##What the project does
