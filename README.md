@@ -28,14 +28,14 @@ watch the results in the right.
 ## Usage
 After launching the program, you will see several « scenes » that you can choose from in your terminal.
 
-![image1](/fancy_fencing_project/Image1.jpg?raw=true)
+![image1](/Image1.png?raw=true)
 
 Each scene describes the map in which you will be playing.
 The caracter « _ » shows the ground, « x » the obstacles, « 1 » the player 1 and « 2 » the player 2.
 You will be asked to type a number to select the desired scene and press Enter.
 The game then starts and the chosen scene is displayed.
 
-![image2](/fancy_fencing_project/Image2.jpg?raw=true)
+![image2](/Image2.png?raw=true)
 
 Both player can jump right and left to avoid obstacles (screens), move right and left, attack and block.
 Here are the controls for both players :
@@ -52,7 +52,7 @@ Here are the controls for both players :
 You can go to the menu by typing « g », in which you can see the controls for both players.
 See what you can do in the menu:
 
-![image3](/fancy_fencing_project/Image3.jpg?raw=true)
+![image3](/Image3.png?raw=true)
 
 When you are in the menu, it is possible to pause / unpause the music, to save the game and load the last save.
 
