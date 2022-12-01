@@ -1,0 +1,17 @@
+{
+    "left_player":{
+        "mouvement_speed": 1,
+        "attacking_speed": 1,
+        "attacking_range": 3,
+        "defending_range": 6,
+        "blocking_time": 1
+    },
+    "right_player":{
+        "mouvement_speed": 2,
+        "attacking_speed": 2,
+        "attacking_range": 4,
+        "defending_range": 4,
+        "blocking_time": 2
+    },
+    "frames": 60
+}
