@@ -15,7 +15,7 @@ Before running the program, you first need to install 2 libraries for this proje
 
 ## Installation
 - First download the project files or clone the repo :
-	```git clone https://github.com/etudiantdescartes/project_name.git```
+	```git clone https://github.com/etudiantdescartes/fancy_fencing_project.git```
 - And run it with:
     ```python project.py```
 
